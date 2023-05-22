@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently 2nd Year student In IT🧑‍🎓<br>Currently Learning more On C++ and Python🧠 <br>Currently Developing a app ⚙️<br>Contacts are : elijahtes12@gmail.com<br>https://www.linkedin.com/in/elijah-tesfazgy-681816216/<br>Hobbies: Web design, Programing(gaming) and Sports<br>
+I'm currently 2nd Year student In IT🧑‍🎓<br>Currently Learning more On C++ and Python🧠 <br>Currently Developing a joint apppcations⚙️<br>Contacts are : elijahtes12@gmail.com<br>https://www.linkedin.com/in/elijah-tesfazgy-681816216/<br>Hobbies: Web design, Programing(gaming) and Sports<br>
 
 
 ## 🌐 Socials:
